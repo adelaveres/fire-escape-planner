@@ -66,11 +66,11 @@ $ make
  # Results
  
  - Small fire example (the code from running-simple-example)
- div
- img src=httpsscontent.fomr1-1.fna.fbcdn.netvt1.0-916864378_718331338344950_375224592939287104_n.jpgoh=fa5c1f481620199bbfec553459cbef0f&oe=593C96C6
- div
+ <div align="center">
+  <img src="httpsscontent.fomr1-1.fna.fbcdn.netvt1.0-916864378_718331338344950_375224592939287104_n.jpgoh=fa5c1f481620199bbfec553459cbef0f&oe=593C96C6"><br>
+ </div>
  
  - Apartment fire
-div
-img src=httpsscontent.fomr1-1.fna.fbcdn.netvt1.0-916832171_718331341678283_4230535414651733512_n.jpgoh=13298cd284350c485cc9e639991e62a6&oe=59259D70
- div
+<div align="center">
+ <img src="httpsscontent.fomr1-1.fna.fbcdn.netvt1.0-916832171_718331341678283_4230535414651733512_n.jpgoh=13298cd284350c485cc9e639991e62a6&oe=59259D70"><br>
+ </div>
