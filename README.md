@@ -62,15 +62,3 @@ $ make
 
   In order to make them accessible, make a copy of each of them in some directory in your PATH (for instance, usrlocalbin).
 
- 
- # Results
- 
- - Small fire example 
- <div align="center">
-  <img src="fire-escape-planner/Screenshot_small_home_fire.jpg"><br>
- </div>
- 
- - Apartment fire
-<div align="center">
- <img src="httpsscontent.fomr1-1.fna.fbcdn.netvt1.0-916832171_718331341678283_4230535414651733512_n.jpgoh=13298cd284350c485cc9e639991e62a6&oe=59259D70"><br>
- </div>
