@@ -150,11 +150,11 @@ the desired goal, run the program, with the following command :
 ``` shell
 falf -l 50 fire.fal
 ```
-The ``` shell ”-l 50” ``` option assumes that there would be less than, or a maximum of 50 steps required
+The _-l 50_  option assumes that there would be less than, or a maximum of 50 steps required
 to solve the problem. The solution builds itself incrementally, starting with the smallest number
 of steps and stopping when the first possible solution based on that number of steps is reached.
-If we want to obtain all the possible results of the minimal path found, we should type ``` shell ”-n
-0” ``` before the ``` shell ”-l 50” ``` option.
+If we want to obtain all the possible results of the minimal path found, we should type _-n
+0_ before the _-l 50_ option.
 ``` shell 
 falf -n 0 -l 50 fire.fal 
 ```
@@ -168,5 +168,7 @@ at safetiness.
 ![alt tag](https://scontent.fomr1-1.fna.fbcdn.net/v/t1.0-9/16864378_718331338344950_375224592939287104_n.jpg?oh=337b4d934a3400574578412f44c074ee&oe=596423C6)
 
 ## Another example ##
+
 _Escaping through a window from an apartment_
+
 ![alt tag](https://scontent.fomr1-1.fna.fbcdn.net/v/t1.0-9/16832171_718331341678283_4230535414651733512_n.jpg?oh=13298cd284350c485cc9e639991e62a6&oe=59259D70)
