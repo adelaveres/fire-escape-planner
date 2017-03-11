@@ -172,3 +172,5 @@ at safetiness.
 _Escaping through a window from an apartment_
 
 ![alt tag](https://scontent.fomr1-1.fna.fbcdn.net/v/t1.0-9/16832171_718331341678283_4230535414651733512_n.jpg?oh=13298cd284350c485cc9e639991e62a6&oe=59259D70)
+
+* _For the complete documentation see the FireEscapePlanner_docum.pdf_
