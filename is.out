@@ -1,0 +1,33 @@
+\BOOKMARK [0][-]{chapter.1}{Installing the tool \(W2\)}{}% 1
+\BOOKMARK [0][-]{chapter.2}{Running and understanding examples \(W3\)}{}% 2
+\BOOKMARK [1][-]{section.2.1}{Fibonacci Numbers}{chapter.2}% 3
+\BOOKMARK [0][-]{chapter.3}{Understanding conceptual instrumentation \(W4\)}{}% 4
+\BOOKMARK [1][-]{section.3.1}{Variables}{chapter.3}% 5
+\BOOKMARK [1][-]{section.3.2}{Default Values}{chapter.3}% 6
+\BOOKMARK [1][-]{section.3.3}{Functional Answer Sets}{chapter.3}% 7
+\BOOKMARK [1][-]{section.3.4}{Value choice and constraints}{chapter.3}% 8
+\BOOKMARK [1][-]{section.3.5}{Actions and Fluents}{chapter.3}% 9
+\BOOKMARK [1][-]{section.3.6}{Events}{chapter.3}% 10
+\BOOKMARK [1][-]{section.3.7}{Action Qualification}{chapter.3}% 11
+\BOOKMARK [0][-]{chapter.4}{Project description \(W5\)}{}% 12
+\BOOKMARK [1][-]{section.4.1}{Narrative description}{chapter.4}% 13
+\BOOKMARK [1][-]{section.4.2}{Specifications}{chapter.4}% 14
+\BOOKMARK [1][-]{section.4.3}{Top level design of the scenario}{chapter.4}% 15
+\BOOKMARK [1][-]{section.4.4}{Knowledge acquisition}{chapter.4}% 16
+\BOOKMARK [0][-]{chapter.5}{Implementation details \(W9\)}{}% 17
+\BOOKMARK [1][-]{section.5.1}{Possible case: small fire}{chapter.5}% 18
+\BOOKMARK [1][-]{section.5.2}{Relevant code}{chapter.5}% 19
+\BOOKMARK [1][-]{section.5.3}{Running the program}{chapter.5}% 20
+\BOOKMARK [0][-]{chapter.6}{Tool expressivity \(W10\)}{}% 21
+\BOOKMARK [0][-]{chapter.7}{Graph and experiments \(W11\)}{}% 22
+\BOOKMARK [1][-]{section.7.1}{Small home fire}{chapter.7}% 23
+\BOOKMARK [1][-]{section.7.2}{Large home fire}{chapter.7}% 24
+\BOOKMARK [1][-]{section.7.3}{Apartment fire}{chapter.7}% 25
+\BOOKMARK [1][-]{section.7.4}{Office fire}{chapter.7}% 26
+\BOOKMARK [0][-]{chapter.8}{Related Work and documentation \(W12\)}{}% 27
+\BOOKMARK [1][-]{section.8.1}{Related approaches}{chapter.8}% 28
+\BOOKMARK [1][-]{section.8.2}{Advantages and limitations of your solution}{chapter.8}% 29
+\BOOKMARK [1][-]{section.8.3}{Possible extensions of the current work}{chapter.8}% 30
+\BOOKMARK [0][-]{chapter.9}{Feedback \(W14\)}{}% 31
+\BOOKMARK [1][-]{subsection.9.0.1}{Self-assessment}{chapter.9}% 32
+\BOOKMARK [0][-]{appendix.A}{Your original code}{}% 33

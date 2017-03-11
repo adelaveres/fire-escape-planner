@@ -1,0 +1,36 @@
+\contentsline {chapter}{\numberline {1}Installing the tool ($W_2$)}{3}{chapter.1}
+\contentsline {chapter}{\numberline {2}Running and understanding examples ($W_3$)}{5}{chapter.2}
+\contentsline {section}{\numberline {2.1}Fibonacci Numbers}{5}{section.2.1}
+\contentsline {chapter}{\numberline {3}Understanding conceptual instrumentation ($W_4$)}{8}{chapter.3}
+\contentsline {section}{\numberline {3.1}Variables}{8}{section.3.1}
+\contentsline {section}{\numberline {3.2}Default Values}{9}{section.3.2}
+\contentsline {section}{\numberline {3.3}Functional Answer Sets}{9}{section.3.3}
+\contentsline {section}{\numberline {3.4}Value choice and constraints}{10}{section.3.4}
+\contentsline {section}{\numberline {3.5}Actions and Fluents}{12}{section.3.5}
+\contentsline {section}{\numberline {3.6}Events}{14}{section.3.6}
+\contentsline {section}{\numberline {3.7}Action Qualification}{15}{section.3.7}
+\contentsline {chapter}{\numberline {4}Project description ($W_5$)}{16}{chapter.4}
+\contentsline {section}{\numberline {4.1}Narrative description}{16}{section.4.1}
+\contentsline {section}{\numberline {4.2}Specifications}{17}{section.4.2}
+\contentsline {section}{\numberline {4.3}Top level design of the scenario}{18}{section.4.3}
+\contentsline {section}{\numberline {4.4}Knowledge acquisition}{18}{section.4.4}
+\contentsline {paragraph}{Knowledge representation}{18}{section*.2}
+\contentsline {paragraph}{Sources of knowledge}{19}{section*.3}
+\contentsline {chapter}{\numberline {5}Implementation details ($W_9$)}{20}{chapter.5}
+\contentsline {section}{\numberline {5.1}Possible case: small fire}{20}{section.5.1}
+\contentsline {paragraph}{\it Steps for extinguishing a small fire}{20}{section*.4}
+\contentsline {section}{\numberline {5.2}Relevant code}{20}{section.5.2}
+\contentsline {section}{\numberline {5.3}Running the program}{21}{section.5.3}
+\contentsline {chapter}{\numberline {6}Tool expressivity ($W_{10}$)}{23}{chapter.6}
+\contentsline {chapter}{\numberline {7}Graph and experiments ($W_{11}$)}{26}{chapter.7}
+\contentsline {section}{\numberline {7.1}Small home fire}{27}{section.7.1}
+\contentsline {section}{\numberline {7.2}Large home fire}{27}{section.7.2}
+\contentsline {section}{\numberline {7.3}Apartment fire}{28}{section.7.3}
+\contentsline {section}{\numberline {7.4}Office fire}{31}{section.7.4}
+\contentsline {chapter}{\numberline {8}Related Work and documentation ($W_{12}$)}{33}{chapter.8}
+\contentsline {section}{\numberline {8.1}Related approaches}{33}{section.8.1}
+\contentsline {section}{\numberline {8.2}Advantages and limitations of your solution}{34}{section.8.2}
+\contentsline {section}{\numberline {8.3}Possible extensions of the current work}{34}{section.8.3}
+\contentsline {chapter}{\numberline {9}Feedback ($W_{14}$)}{36}{chapter.9}
+\contentsline {subsection}{\numberline {9.0.1}Self-assessment}{36}{subsection.9.0.1}
+\contentsline {chapter}{\numberline {A}Your original code}{38}{appendix.A}

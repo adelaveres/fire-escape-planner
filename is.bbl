@@ -1,0 +1,37 @@
+\begin{thebibliography}{1}
+
+\bibitem{zook_2012}
+Zook A., Urban~S. L., Riedl~M. O., Holden~H. K., Sottilare~R. A., and
+  Brawner~K. W.
+\newblock Automated scenario generation: toward tailored and optimized military
+  training in virtual environments.
+\newblock {\em Proceedings of the Foundations of Digital Games}, 7:164–171,
+  2012.
+
+\bibitem{grois_1998}
+Grois E., Hsu~W. H., Voloshin M., and Wilkins~D. C.
+\newblock Bayesian network models for generation of crisis management training
+  scenarios.
+\newblock {\em Proceedings of the innovative applications of artificial
+  intelligence}, 10:1113–--1120, 1998.
+
+\bibitem{martin_2009}
+Martin G., Schatz S., Bowers C., Hughes~C. E., Fowlkes J., and Nicholson D.
+\newblock Automatic scenario generation through procedural modeling for
+  scenario based training.
+\newblock {\em Proceedings of the Human Factors and Ergonomics}, 53:1949--1953,
+  2009.
+
+\bibitem{niehaus_riedl}
+Niehaus J. and Riedl~M. O.
+\newblock Scenario adaptation: An approach to customizing computer-based
+  training games and simulations.
+\newblock volume~3, pages 89–--98, 2009.
+
+\bibitem{lopes_bidarra}
+Lopes R. and Bidarra R.
+\newblock Adaptivity challenges in games and simulations: A survey.
+\newblock {\em IEEE Transactions on Computational Intelligence and AI in
+  Games}, 3:85--89, 2011.
+
+\end{thebibliography}
