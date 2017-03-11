@@ -65,9 +65,9 @@ $ make
  
  # Results
  
- - Small fire example (the code from running-simple-example)
+ - Small fire example 
  <div align="center">
-  <img src="httpsscontent.fomr1-1.fna.fbcdn.netvt1.0-916864378_718331338344950_375224592939287104_n.jpgoh=fa5c1f481620199bbfec553459cbef0f&oe=593C96C6"><br>
+  <img src="fire-escape-planner/Screenshot_small_home_fire.jpg"><br>
  </div>
  
  - Apartment fire
