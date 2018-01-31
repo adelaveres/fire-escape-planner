@@ -165,12 +165,12 @@ the fluents there is an action that triggers the change of state. In the case of
 action is ”extinguish”. This leads us to state 1 , where we do not have a fire anymore, arriving
 at safetiness.
 
-![alt tag](https://scontent.fomr1-1.fna.fbcdn.net/v/t1.0-9/16864378_718331338344950_375224592939287104_n.jpg?oh=337b4d934a3400574578412f44c074ee&oe=596423C6)
+![alt tag](capture_fire_small.jpg)
 
 ## Another example ##
 
 _Escaping through a window from an apartment_
 
-![alt tag](https://scontent.fomr1-1.fna.fbcdn.net/v/t1.0-9/16832171_718331341678283_4230535414651733512_n.jpg?oh=13298cd284350c485cc9e639991e62a6&oe=59259D70)
+![alt tag](Screenshot_ap_fire1.jpg)
 
 * _For the complete documentation see the FireEscapePlanner_docum.pdf_
